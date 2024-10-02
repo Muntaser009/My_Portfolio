@@ -71,7 +71,7 @@
 
 ###  Let's Connect!
 -  [Email me](mailto:muntasermunem@gmail.com)
--  [LinkedIn]([https://www.linkedin.com/in/MuntaserMunem](https://www.linkedin.com/in/muntaser-munem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+-  [LinkedIn](https://www.linkedin.com/in/muntaser-munem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 -  **Fun Fact**:
   I believe every machine has its own story to tell — it’s up to the engineer to listen and optimize it.
 
