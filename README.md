@@ -1,8 +1,8 @@
 # Mechanical Engineer
 
 #### Technical Skills: 
-AutoCAD 
--SolidWorks
+- AutoCAD 
+- SolidWorks
 -Python
 -Simulink
 -ANSYS
