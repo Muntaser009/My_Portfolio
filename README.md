@@ -1,11 +1,17 @@
-# Data Scientist
+# Mechanical Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+                   1. AutoCAD 
+                   2. SolidWorks
+                   3. Python
+                   4. Simulink
+                   5. ANSYS
+                   6. MATLAB
+                   7. PowerBI
+                   8. Microsoft Office
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+	 - B.Sc in Mechanical Engineering | Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
