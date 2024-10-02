@@ -23,6 +23,7 @@
 - A smart Supply Chain Management System
 
 ## Projects
+
 ### Shell and Tube Heat Exchanger
 (https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -32,13 +33,6 @@
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
@@ -46,8 +40,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Munem M, Rahman KA. Comprehensive CSTR Control Integration for Enhanced Ethanol Production: PI, PID, MPC, Hybrid MPC-PID Strategies in Nonlinear Bioreactors. PID, MPC, Hybrid MPC-PID Strategies in Nonlinear Bioreactors (June 24, 2024). 2024 Jun 24.
