@@ -3,12 +3,12 @@
 #### Technical Skills: 
 - AutoCAD 
 - SolidWorks
--Python
--Simulink
--ANSYS
--MATLAB
--PowerBI
--Microsoft Office
+- Python
+- Simulink
+- ANSYS
+- MATLAB
+- PowerBI
+- Microsoft Office
 
 ## Education
 - B.Sc in Mechanical Engineering | Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
