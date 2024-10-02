@@ -19,6 +19,6 @@
 - Developing new products, simulation, testing, feasibility studies and project profiles
 - Develop and implement strategies for the optimal utilization of machinery and materials
 
-**Founder @ SantarHut LLC (_2018-2021_)**
+**Founder @ SantarHut  (_2018-2021_)**
 - A smart Supply Chain Management System
 
