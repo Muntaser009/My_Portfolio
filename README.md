@@ -11,7 +11,7 @@
                    8. Microsoft Office
 
 ## Education
-	 - B.Sc in Mechanical Engineering | Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
+- B.Sc in Mechanical Engineering | Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
