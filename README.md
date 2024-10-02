@@ -11,7 +11,7 @@
 - Microsoft Office
 
 ## Education
-- **B.Sc in Mechanical Engineering Bangladesh University of Engineering and Technology (BUET) (_November 2023_)**
+- **B.Sc in Mechanical Engineering** Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
 
 ## Work Experience
 **Asst. Engineer @ Anwar Group of Industries (_Feb 2024 - Present_)**
