@@ -1,4 +1,4 @@
-# Mechanical Engineer | Manufacturing Enthusiast | Researcher
+### Mechanical Engineer | Manufacturing Enthusiast | Researcher
 
 #### Technical Skills: 
 - AutoCAD 
