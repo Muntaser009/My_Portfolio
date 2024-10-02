@@ -28,11 +28,11 @@
 
 ###  Current Research Works
 
-- 🛠 **Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.
+- 🛠 **Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.**
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-- 🔧 **Herringbone Gear Transmission for Marine Gearbox.
+- 🔧 **Herringbone Gear Transmission for Marine Gearbox.**
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -58,8 +58,6 @@
 
 #### LEED Certification for Cement Plant Project
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory.
--  Coordinated between the **360 Total Solution Limited** consultancy and the company's leadership, ensuring proper documentation and adherence to sustainable building practices.
--  Prepared official approval forms including building descriptions, fees, and space details for signatories including the GM, CEO, DMD, and Chairman.
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
   
