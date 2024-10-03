@@ -57,15 +57,12 @@
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 #### LEED Certification for Cement Plant Project
--  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory.
-![Plant Landscape](/img/plant.jpg)    
+-  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
-![Rooftop Solar System](/img/solar.jpg)
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
-![Summary of Solar System](/img/solar_2.jpg)
-
-![Plant Landscape](/img/plant.jpg)          ![Rooftop Solar System](/img/solar.jpg)
-
+### "Plant Landscape:"
+![Plant Landscape](/img/plant.jpg)          
+<img src="./img/plant.jpg" width=300 height=300>
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
 -  Products range from cross-head screws to hexagonal and combination screws, ensuring both quality and precision
