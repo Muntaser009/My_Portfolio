@@ -61,7 +61,8 @@
 -  Responsible for operational strategies, product development, and market analysis
 -  Collaborated with global suppliers for high-precision machinery
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<img src="./img/plant.jpg" width=200 height=100>
+<img src="./img/solar.jpg" width=200 height=100>
 
 #### LEED Certification for Cement Plant Project
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
