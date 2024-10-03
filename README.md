@@ -60,10 +60,16 @@
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory.
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
-<div style="display: flex; justify-content: space-around;">
-  <img src="/img/plant.jpg" alt="Plant Landscape" style="height: 150px !important; width: auto;">
-  <img src="/img/solar.jpg" alt="Rooftop Solar System" style="height: 150px !important; width: auto;">
-  <img src="/img/solar_2.jpg" alt="Solar Project Summary" style="height: 150px !important; width: auto;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <img src="/img/plant.jpg" alt="Plant Landscape" style="max-height: 150px; width: auto;">
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <img src="/img/solar.jpg" alt="Rooftop Solar System" style="max-height: 150px; width: auto;">
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <img src="/img/solar_2.jpg" alt="Solar Project Summary" style="max-height: 150px; width: auto;">
+  </div>
 </div>
 
 #### Comprehensive Screw Manufacturing Line
