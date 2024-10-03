@@ -4,7 +4,7 @@
 - AutoCAD 
 - SolidWorks
 - Python
-- Simulink
+- Simulink 
 - ANSYS
 - MATLAB
 - PowerBI
