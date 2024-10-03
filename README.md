@@ -62,7 +62,7 @@
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
 ### "Plant Landscape:"
 ![Plant Landscape](/img/plant.jpg)          
-<img src="./img/plant.jpg" width=300 height=300>
+<img src="./img/plant.jpg" width=500 height=100>
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
 -  Products range from cross-head screws to hexagonal and combination screws, ensuring both quality and precision
