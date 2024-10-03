@@ -58,10 +58,11 @@
 
 #### LEED Certification for Cement Plant Project
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory.
+![Plant Landscape](/img/plant.jpg)    
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
+![Rooftop Solar System](/img/solar.jpg)
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
-
-<img src="/img/plant.jpg" alt="Plant Landscape" width="150" />
+![Summary of Solar System](/img/solar_2.jpg)
 
 ![Plant Landscape](/img/plant.jpg)          ![Rooftop Solar System](/img/solar.jpg)
 
