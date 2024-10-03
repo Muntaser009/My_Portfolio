@@ -3,7 +3,7 @@
 #### Technical Skills: 
 - AutoCAD 
 - SolidWorks 
-- Python
+- Python 
 - Simulink 
 - ANSYS
 - MATLAB
