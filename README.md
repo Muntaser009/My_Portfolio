@@ -51,10 +51,10 @@
 - Developing new products, simulation, testing, feasibility studies and project profiles
 - Develop and implement strategies for the optimal utilization of machinery and materials
 
-<img src="./img/anwa.jpg" width=200 height=100>
+<img src="./img/anwa.jpg" width=100 height=100>
 <img src="./img/anwar.png" width=300 height=100>
 
- **Founder @ SantarHut  (_2018-2021_)**
+💼 **Founder @ SantarHut  (_2018-2021_)**
 - A smart Supply Chain Management System
 
 <img src="./img/santa.jpeg" width=200 height=100>
