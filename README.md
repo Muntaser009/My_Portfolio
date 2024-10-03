@@ -61,7 +61,7 @@
 -  Responsible for operational strategies, product development, and market analysis
 -  Collaborated with global suppliers for high-precision machinery
 
-<img src="./img/disc_1.jpg" width=200 height=100>
+<img src="./img/disc_2.jpg" width=200 height=100>
 <img src="./img/layout.jpg" width=200 height=100>
 
 #### LEED Certification for Cement Plant Project
