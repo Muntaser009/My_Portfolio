@@ -61,8 +61,12 @@
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
 ### "Plant Landscape:"
-![Plant Landscape](/img/plant.jpg)          
-<img src="./img/plant.jpg" alt="./img/solar.jpg" alt="./img/solar_2.jpg" width=200 height=100>
+![Plant Landscape](/img/plant.jpg)  
+<div
+<img src="./img/plant.jpg" width=200 height=100>
+<img src="./img/solar.jpg" width=200 height=100>
+<img src="./img/solar_2.jpg" width=200 height=100>
+</div>
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
 -  Products range from cross-head screws to hexagonal and combination screws, ensuring both quality and precision
