@@ -57,7 +57,7 @@
  **Founder @ SantarHut  (_2018-2021_)**
 - A smart Supply Chain Management System
 
-<img src="./img/anwa.jpg" width=200 height=100>
+<img src="./img/santa.jpeg" width=200 height=100>
 
 ## Professional Projects
 
