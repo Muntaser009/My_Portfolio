@@ -46,13 +46,18 @@
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Work Experience
-💼 **Asst. Engineer @ Anwar Group of Industries (_Feb 2024 - Present_)**
+💼 **Asst. Engineer @ [Anwar Group of Industries](https://www.anwargroup.com/) (_Feb 2024 - Present_)**
 - Optimize business operations through comprehensive planning and strategic initiatives
 - Developing new products, simulation, testing, feasibility studies and project profiles
 - Develop and implement strategies for the optimal utilization of machinery and materials
 
+<img src="./img/anwa.jpg" width=200 height=100>
+<img src="./img/anwar.png" width=300 height=100>
+
  **Founder @ SantarHut  (_2018-2021_)**
 - A smart Supply Chain Management System
+
+<img src="./img/anwa.jpg" width=200 height=100>
 
 ## Professional Projects
 
