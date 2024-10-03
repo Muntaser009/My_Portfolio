@@ -65,7 +65,7 @@
   <img src="/img/solar.jpg" alt="Rooftop Solar System" width="300" height="auto" style="display:inline-block;">
 </p>
 
-![Plant Landscape](/img/plant.jpg) ![Rooftop Solar System](/img/solar.jpg)
+#### ![Plant Landscape](/img/plant.jpg)          #### ![Rooftop Solar System](/img/solar.jpg)
 
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
