@@ -28,11 +28,11 @@
 
 ###  Current Research Works
 
-- 🛠 **Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.**
+- 🛠 Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-- 🔧 **Herringbone Gear Transmission for Marine Gearbox.**
+- 🔧 Herringbone Gear Transmission for Marine Gearbox.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -65,7 +65,6 @@
   <img src="/img/solar.jpg" alt="Rooftop Solar System" style="width: 30%; height: auto;">
   <img src="/img/solar_2.jpg" alt="Solar Project Summary" style="width: 30%; height: auto;">
 </div>  
-![Plant Landscape](/img/plant.jpg) ![Rooftop Solar System](/img/solar.jpg) ![Solar Project Summary](/img/solar_2.jpg) 
 
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
