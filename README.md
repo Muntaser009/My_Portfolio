@@ -24,7 +24,7 @@
 <img src="./img/mpc.jpg" width=200 height=100>
 <img src="./img/mpgra.jpg" width=200 height=100>
 
-###  Current Research Works
+## Current Research Works
 
 - 🛠 Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.
 
@@ -64,7 +64,7 @@
 <img src="./img/disc_2.jpg" width=200 height=100>
 <img src="./img/layout.jpg" width=200 height=100>
 
-#### LEED Certification for Cement Plant Project
+#### LEED Certification for Cement Sheet Plant Project
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
@@ -74,12 +74,6 @@
 
 <img src="./img/solar_2.jpg" width=200 height=100>
 <img src="./img/Coverage.jpg" width=200 height=100>
-
-#### Comprehensive Screw Manufacturing Line
--  Established a screw manufacturing plant for roofing screws in Bangladesh
--  Products range from cross-head screws to hexagonal and combination screws, ensuring both quality and precision
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ###  Let's Connect!
 -  [Email me](mailto:muntasermunem@gmail.com)
