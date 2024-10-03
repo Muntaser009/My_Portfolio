@@ -16,7 +16,11 @@
 ## Publications
 1. Munem M, Rahman KA. Comprehensive CSTR Control Integration for Enhanced Ethanol Production: PI, PID, MPC, Hybrid MPC-PID Strategies in Nonlinear Bioreactors. PID, MPC, Hybrid MPC-PID Strategies in Nonlinear Bioreactors (June 24, 2024). 2024 Jun 24.
 [Publication](https://www.papers.ssrn.com/sol3/papers.cfm?abstract_id=4874366)
+<img src="./img/bio.jpg" width=200 height=100>
+<img src="./img/gra.jpg" width=200 height=100>
 
+<img src="./img/mpc.jpg" width=200 height=100>
+<img src="./img/mpgra.jpg" width=200 height=100>
 
 ###  Current Research Works
 
