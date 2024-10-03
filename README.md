@@ -65,6 +65,7 @@
 <img src="./img/solar.jpg" width=200 height=100>
 
 <img src="./img/solar_2.jpg" width=200 height=100>
+<img src="./img/Coverage.jpg" width=200 height=100>
 
 #### Comprehensive Screw Manufacturing Line
 -  Established a screw manufacturing plant for roofing screws in Bangladesh
