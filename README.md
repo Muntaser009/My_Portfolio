@@ -101,7 +101,7 @@
 - 1st Runner Up, Student to Startup, Chapter-02 (2019)
   
 <div style="text-align: center;">
-  <img src="./img/awa_2.jpeg" width="250" height="100" alt="Image">
+  <img src="./img/awa_2.jpeg" width="200" height="100" alt="Image">
 </div>
 
 - 2nd Runner Up, Entrepreneur Summit (2018)
