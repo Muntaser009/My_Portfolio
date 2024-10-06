@@ -1,7 +1,7 @@
 ## Mechanical Engineer 
 ### Manufacturing Enthusiast | Researcher
 
-<img src="./img/pic.jpeg" width=300 height=150>
+<img src="./img/pic.jpeg" width=200 height=150>
 
 ## Technical Skills 
 - AutoCAD 
