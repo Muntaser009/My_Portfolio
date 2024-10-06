@@ -1,6 +1,8 @@
 ## Mechanical Engineer 
 ### Manufacturing Enthusiast | Researcher
 
+<img src="/img/pic.jpeg" alt="Profile Image" style="width:100px; height:200px;">
+
 ## Technical Skills 
 - AutoCAD 
 - SolidWorks 
