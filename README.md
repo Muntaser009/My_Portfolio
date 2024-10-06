@@ -1,12 +1,14 @@
 ## Mechanical Engineer 
 ### Manufacturing Enthusiast | Researcher
 
-<img src="./img/pic.jpeg" width=200 height=150> ## Technical Skills 
-- AutoCAD 
-- SolidWorks 
-- Python 
-- Simulink 
-- ANSYS
+<img src="./img/pic.jpeg" width=200 height=150> 
+
+## Technical Skills 
+- AutoCAD                          - Simulink
+- SolidWorks                       - Ansys
+- Python                           - Matlab
+- Simulink                         - PowerBI
+- ANSYS                      
 - MATLAB
 - PowerBI
 - Microsoft Office
