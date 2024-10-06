@@ -31,11 +31,11 @@
 
 ## Current Research Works
 
-- 🛠 Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.
+- 🛠 **Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.**
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-- 🔧 Herringbone Gear Transmission for Marine Gearbox.
+- 🔧 **Herringbone Gear Transmission for Marine Gearbox.**
 
 <img src="./img/gear_1.jpg" width=250 height=125>
 <img src="./img/gear_2.jpg" width=250 height=125>
