@@ -100,11 +100,11 @@
 ## Awards
 - 1st Runner Up, Student to Startup, Chapter-02 (2019)
   
-<img src="./img/solar_2.jpg" width=250 height=125>  
+<img src="./img/awa_2.jpeg" width=250 height=125>  
 
 - 2nd Runner Up, Entrepreneur Summit (2018)
 
-<img src="./img/solar_2.jpg" width=250 height=125>
+<img src="./img/awa_1.jpeg" width=250 height=125>
 
 
 ###  Let's Connect!
