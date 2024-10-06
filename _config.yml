@@ -1,21 +1,6 @@
-title: "Muntaser Munem"
-remote_theme: "mmistakes/minimal-mistakes"
+title: Muntaser Munem
+theme: jekyll-theme-leap-day
 
-
-author:
-  name: "Muntaser Munem"
-  avatar: "/img/pic.jpeg"   
-  bio: "Mechanical Engineer | Innovator | Industrial Project Lead"
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-
-theme_settings:
-  layout: single            
-  header:
-    overlay_image: "/img/cover.jpg" 
-    show_avatar: true        
-  show_excerpts: true
+# Author Information
+author: Muntaser Munem
+logo: /img/pic.jpeg  # Ensure you upload the pic.jpeg to the /img folder
