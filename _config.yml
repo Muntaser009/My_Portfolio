@@ -1,30 +1,21 @@
 title: "Muntaser Munem"
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Author Information
+
 author:
   name: "Muntaser Munem"
-  avatar: "/img/pic.jpeg"   # Ensure your image is in the /img folder
-  bio: "Mechanical Engineer | Manufacturing Enthusiast | Researcher"
+  avatar: "/img/pic.jpeg"   
+  bio: "Mechanical Engineer | Innovator | Industrial Project Lead"
 
-# Social Links (optional)
-social:
-  github: https://github.com/muntaser009
-  linkedin: https://linkedin.com/in/yourprofile
-
-# Site URL (replace this with your GitHub repository URL)
-url: "https://muntaser009.github.io"
-
-# Plugins (optional but recommended)
 plugins:
-  - jekyll-seo-tag          # For better SEO
-  - jekyll-sitemap          # Automatically generates a sitemap
-  - jekyll-feed             # RSS feed generator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# Minimal Mistakes Configuration
+
 theme_settings:
-  layout: single             # Single-column layout for a modern look
+  layout: single            
   header:
-    overlay_image: "/img/cover_2.jpg"  # Optional: Add a header cover image
-    show_avatar: true         # Display profile picture in the header
-  show_excerpts: true         # Shows summary of posts on the index page
+    overlay_image: "/img/cover.jpg" 
+    show_avatar: true        
+  show_excerpts: true
