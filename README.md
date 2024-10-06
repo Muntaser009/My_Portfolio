@@ -1,4 +1,5 @@
 ## Mechanical Engineer 
+
 ### Manufacturing Enthusiast | Researcher
 
 <img src="./img/pic.jpeg" width=200 height=150> 
@@ -14,6 +15,7 @@
 - Microsoft Office
 
 ## Education
+
 - 🎓 **B.Sc in Mechanical Engineering** Bangladesh University of Engineering and Technology (BUET) (_November 2023_)
 
 ## Publications
@@ -68,6 +70,7 @@
 ## Professional Projects
 
 #### Cutting & Grinding Disc Plant Setup
+
 -  Spearheaded the entire plant setup: from machinery selection to layout design
 -  Responsible for operational strategies, product development, and market analysis
 -  Collaborated with global suppliers for high-precision machinery
