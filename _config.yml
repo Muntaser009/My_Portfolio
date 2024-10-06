@@ -1,7 +1,6 @@
 title: Muntaser Munem
 theme: jekyll-theme-leap-day
-header_pages:
-  - custom.html
+
 # Author Information
 author: Muntaser Munem
 logo: /img/pic.jpeg  # Ensure you upload the pic.jpeg to the /img folder
