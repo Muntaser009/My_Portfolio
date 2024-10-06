@@ -1,9 +1,7 @@
 ## Mechanical Engineer 
 ### Manufacturing Enthusiast | Researcher
 
-<img src="./img/pic.jpeg" width=200 height=150>
-
-## Technical Skills 
+<img src="./img/pic.jpeg" width=200 height=150> ## Technical Skills 
 - AutoCAD 
 - SolidWorks 
 - Python 
