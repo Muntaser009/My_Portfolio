@@ -37,7 +37,14 @@
 
 - 🔧 Herringbone Gear Transmission for Marine Gearbox.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<img src="./img/gear_1.jpg" width=250 height=125>
+<img src="./img/gear_2.jpg" width=250 height=125>
+
+<img src="./img/gear_3.jpg" width=250 height=125>
+<img src="./img/gear_4.jpg" width=250 height=125>
+
+<img src="./img/gear_5.jpg" width=250 height=125>
+<img src="./img/gear_6.jpg" width=250 height=125>
 
 ## Academic Projects
 
