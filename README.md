@@ -1,10 +1,8 @@
-## Mechanical Engineer 
+## Muntaser Munem
 
-### Manufacturing Enthusiast | Researcher
+### Mechanical Engineer | Manufacturing Enthusiast | Researcher
 
 ![Profile Picture](/img/pic.jpeg){: style="max-width: 200px; border-radius: 50%; display: block; margin: 0 auto;" }
-
-<img src="./img/pic.jpeg" width=200 height=150> 
 
 ## Technical Skills 
 - AutoCAD                          
