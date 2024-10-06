@@ -1,6 +1,5 @@
 ## Mechanical Engineer 
-### Manufacturing Enthusiast 
-### Researcher
+### Manufacturing Enthusiast | Researcher
 
 ## Technical Skills: 
 - AutoCAD 
@@ -20,11 +19,11 @@
 [Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874366)
 
 
-<img src="./img/bio.jpg" width=200 height=100>
-<img src="./img/gra.jpg" width=200 height=100>
+<img src="./img/bio.jpg" width=300 height=150>
+<img src="./img/gra.jpg" width=300 height=150>
 
-<img src="./img/mpc.jpg" width=200 height=100>
-<img src="./img/mpgra.jpg" width=200 height=100>
+<img src="./img/mpc.jpg" width=300 height=150>
+<img src="./img/mpgra.jpg" width=300 height=150>
 
 ## Current Research Works
 
@@ -53,13 +52,13 @@
 - Developing new products, simulation, testing, feasibility studies and project profiles
 - Develop and implement strategies for the optimal utilization of machinery and materials
 
-<img src="./img/anwa.jpg" width=100 height=100>
+<img src="./img/anwa.jpg" width=200 height=100>
 <img src="./img/anwar.png" width=300 height=100>
 
 💼 **Founder @ SantarHut  (_2018-2021_)**
 - A smart Supply Chain Management System
 
-<img src="./img/santa.jpeg" width=200 height=100>
+<img src="./img/santa.jpeg" width=300 height=150>
 
 ## Professional Projects
 
@@ -68,19 +67,19 @@
 -  Responsible for operational strategies, product development, and market analysis
 -  Collaborated with global suppliers for high-precision machinery
 
-<img src="./img/disc_2.jpg" width=200 height=100>
-<img src="./img/layout.jpg" width=200 height=100>
+<img src="./img/disc_2.jpg" width=300 height=150>
+<img src="./img/layout.jpg" width=300 height=150>
 
 #### LEED Certification for Cement Sheet Plant Project
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
 -  Responsibilities included streamlining communication between departments, organizing data for sustainable performance metrics, and ensuring timely submissions to the certification body.
 
-<img src="./img/plant.jpg" width=200 height=100>
-<img src="./img/solar.jpg" width=200 height=100>
+<img src="./img/plant.jpg" width=300 height=150>
+<img src="./img/solar.jpg" width=300 height=150>
 
-<img src="./img/solar_2.jpg" width=200 height=100>
-<img src="./img/Coverage.jpg" width=200 height=100>
+<img src="./img/solar_2.jpg" width=300 height=150>
+<img src="./img/Coverage.jpg" width=300 height=150>
 
 ###  Let's Connect!
 -  [Email me](mailto:muntasermunem@gmail.com)
