@@ -1,6 +1,8 @@
-### Mechanical Engineer | Manufacturing Enthusiast | Researcher
+## Mechanical Engineer 
+### Manufacturing Enthusiast 
+### Researcher
 
-#### Technical Skills: 
+## Technical Skills: 
 - AutoCAD 
 - SolidWorks 
 - Python 
