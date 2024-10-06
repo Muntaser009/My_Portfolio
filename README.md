@@ -101,14 +101,14 @@
 
 -  [Email me](mailto:muntasermunem@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/muntaser-munem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
--  Academic CV
+-  [Academic CV](https://drive.google.com/file/d/1aDPnOsvN6wqHumwJWL7aueCZc2Lx4yxy/view?usp=drive_link)
 
-### *Fun Fact**:
+### **Fun Fact**
 I believe every machine has its own story to tell — it’s up to the engineer to listen and optimize it.
 
 ---
 
-###  Quote I Live By
+###  **Quote I Live By**
 
 _"Machines take me by surprise with great frequency." — Alan Turing_
 
