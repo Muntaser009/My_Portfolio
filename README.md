@@ -76,7 +76,7 @@
 
 ## Professional Projects
 
-#### Cutting & Grinding Disc Plant Setup
+### Cutting & Grinding Disc Plant Setup
 
 -  Spearheaded the entire plant setup: from machinery selection to layout design
 -  Responsible for operational strategies, product development, and market analysis
@@ -85,7 +85,7 @@
 <img src="./img/disc_2.jpg" width=250 height=125>
 <img src="./img/layout.jpg" width=250 height=125>
 
-#### LEED Certification for Cement Sheet Plant Project
+### LEED Certification for Cement Sheet Plant Project
 
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
