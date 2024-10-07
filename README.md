@@ -140,7 +140,7 @@ I believe every machine has its own story to tell — it’s up to the engineer 
 
 ###  **Quote I Live By**
 
-_"Machines take me by surprise with great frequency." — Alan Turing_
+_**Machines take me by surprise with great frequency.** — Alan Turing_
 
 
 
