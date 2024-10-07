@@ -59,7 +59,7 @@
 
 ## Work Experience
 
-💼 **Asst. Engineer @ [Anwar Group of Industries](https://www.anwargroup.com/) (_Feb 2024 - Present_)**
+💼 ### **Asst. Engineer @ [Anwar Group of Industries](https://www.anwargroup.com/) (_Feb 2024 - Present_)**
 
 - Optimize business operations through comprehensive planning and strategic initiatives
 - Developing new products, simulation, testing, feasibility studies and project profiles
@@ -68,7 +68,7 @@
 <img src="./img/anwa.jpg" width=200 height=100>
 <img src="./img/anwar.png" width=300 height=100>
 
-💼 **Founder @ SantarHut  (_2018-2021_)**
+💼 ### **Founder @ SantarHut  (_2018-2021_)**
 
 - A smart Supply Chain Management System
 
@@ -76,7 +76,7 @@
 
 ## Professional Projects
 
-### Cutting & Grinding Disc Plant Setup
+### "Cutting & Grinding Disc Plant Setup"
 
 -  Spearheaded the entire plant setup: from machinery selection to layout design
 -  Responsible for operational strategies, product development, and market analysis
@@ -85,7 +85,7 @@
 <img src="./img/disc_2.jpg" width=250 height=125>
 <img src="./img/layout.jpg" width=250 height=125>
 
-### LEED Certification for Cement Sheet Plant Project
+### "LEED Certification for Cement Sheet Plant Project"
 
 -  Facilitated the process to obtain **LEED certification** for the **Anwar Cement Sheet Limited** (ACSL) factory. 
 -  Managed the submission of data for eco-friendly materials, energy efficiency, and waste reduction in compliance with LEED standards.
@@ -115,18 +115,23 @@
 - "Certificate of Appreciation for Maintaining Highest Standards on Cutting Disc Project (2024)"
 <div style="text-align: center;">
   <img src="./img/cer.jpeg" width="250" height="175" alt="Image">
+  <img src="./img/cer_2.jpeg" width="250" height="175" alt="Image">
 </div>
 
-- "Certificate of Appreciation for Maintaining Highest Standards on Cutting Disc Project (2024)"
+## Certifications
+
+- "Resource Efficiency and Cleaner Production by UNIDO (Jun’24)"
 <div style="text-align: center;">
-  <img src="./img/cer.jpeg" width="250" height="175" alt="Image">
+  <img src="./img/recp.jpeg" width="250" height="175" alt="Image">
 </div>
+
 
 ###  Let's Connect!
 
 -  [Email me](mailto:muntasermunem@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/muntaser-munem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 -  [Academic CV](https://drive.google.com/file/d/1aDPnOsvN6wqHumwJWL7aueCZc2Lx4yxy/view?usp=drive_link)
+
 
 ### **Fun Fact**
 I believe every machine has its own story to tell — it’s up to the engineer to listen and optimize it.
