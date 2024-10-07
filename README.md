@@ -110,6 +110,12 @@
   <img src="./img/awa_1.jpeg" width="250" height="125" alt="Image">
 </div>
 
+## Awards
+
+- Certificate of Appreciation for Maintaining Highest Standards on Cutting Disc Project (2024)
+<div style="text-align: center;">
+  <img src="./img/awa_1.jpeg" width="250" height="125" alt="Image">
+</div>
 
 ###  Let's Connect!
 
