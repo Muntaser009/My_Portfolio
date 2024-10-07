@@ -101,20 +101,20 @@
 - 1st Runner Up, Student to Startup, Chapter-02 (2019)
   
 <div style="text-align: center;">
-  <img src="./img/awa_2.jpeg" width="200" height="100" alt="Image">
+  <img src="./img/awa_2.jpeg" width="200" height="125" alt="Image">
 </div>
 
 - 2nd Runner Up, Entrepreneur Summit (2018)
 
 <div style="text-align: center;">
-  <img src="./img/awa_1.jpeg" width="250" height="125" alt="Image">
+  <img src="./img/awa_1.jpeg" width="250" height="150" alt="Image">
 </div>
 
 ## Awards
 
 - Certificate of Appreciation for Maintaining Highest Standards on Cutting Disc Project (2024)
 <div style="text-align: center;">
-  <img src="./img/cer.jpeg" width="250" height="125" alt="Image">
+  <img src="./img/cer.jpeg" width="250" height="150" alt="Image">
 </div>
 
 ###  Let's Connect!
