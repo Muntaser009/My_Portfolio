@@ -53,10 +53,6 @@
 
 ![Shell and Tube](/img/shell.jpeg)
 
-### An Automated Door Control System
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ## Work Experience
 
 💼 **Asst. Engineer @ [Anwar Group of Industries](https://www.anwargroup.com/) (_Feb 2024 - Present_)**
