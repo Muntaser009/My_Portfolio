@@ -49,7 +49,6 @@
 ## Academic Projects
 
 ### Shell and Tube Heat Exchanger
-(https://www.mdpi.com/1424-8220/22/8/3048)
 
 ![Shell and Tube](/img/shell.jpeg)
 
