@@ -102,7 +102,7 @@
   
 <div style="text-align: center;">
   <img src="./img/awa_2.jpeg" width="200" height="125" alt="Image">
-   <img src="./img/cer_3.jpeg" width="250" height="150" alt="Image">
+   <img src="./img/cer_3.jpeg" width="200" height="125" alt="Image">
 </div>
 
 - **2nd Runner Up, Entrepreneur Summit (2018)**
