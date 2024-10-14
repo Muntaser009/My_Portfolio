@@ -108,7 +108,7 @@
 
 <div style="text-align: center;">
   <img src="./img/awa_1.jpeg" width="250" height="150" alt="Image">
-   <img src="./img/awa_1.jpeg" width="250" height="150" alt="Image">
+   <img src="./img/cer_3.jpeg" width="250" height="150" alt="Image">
 </div>
 
 ## Professional Recognition
