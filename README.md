@@ -50,7 +50,11 @@
 
 ### Shell and Tube Heat Exchanger
 
-![Shell and Tube](/img/shell.jpeg)
+<img src="./img/Shell and Tube Heat Exchanger.png" width=250 height=125>
+<img src="./img/Tube Bundles.png" width=250 height=125>
+
+<img src="./img/Shell.png" width=250 height=125>
+<img src="./img/Head Cover.png" width=250 height=125>
 
 ## Work Experience
 
