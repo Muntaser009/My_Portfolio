@@ -50,11 +50,11 @@
 
 ### Shell and Tube Heat Exchanger
 
-<img src="./img/he.png" width=250 height=125>
-<img src="./img/tube.png" width=250 height=125>
+<img src="./img/he_50.jpg" width=250 height=125>
+<img src="./img/tube_50.jpg" width=250 height=125>
 
-<img src="./img/shell.png" width=250 height=125>
-<img src="./img/head.png" width=250 height=125>
+<img src="./img/shell_50.jpg" width=250 height=125>
+<img src="./img/head_50.jpg" width=250 height=125>
 
 ## Work Experience
 
