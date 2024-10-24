@@ -33,7 +33,10 @@
 
 - 🛠 **Comparative Study of Mechanical and Thermal Performance of 3D Printed Materials Versus Conventional PVC and Cast-Iron Products: A Review of Additive Manufacturing Technologies and Material Properties**
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<img src="./img/am_1.jpeg" width=250 height=125>
+<img src="./img/am_2.jpeg" width=250 height=125>
+
+<img src="./img/mpc.jpg" width=500 height=250>
 
 - 🔧 **Herringbone Gear Transmission for Marine Gearbox.**
 
