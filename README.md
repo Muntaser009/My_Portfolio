@@ -36,7 +36,7 @@
 <img src="./img/am_1.jpeg" width=250 height=125>
 <img src="./img/am_2.jpeg" width=250 height=125>
 
-<img src="./img/mpc.jpg" width=500 height=250>
+<img src="./img/am_3.jpeg" width=500 height=250>
 
 - 🔧 **Herringbone Gear Transmission for Marine Gearbox.**
 
