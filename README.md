@@ -33,8 +33,8 @@
 
 - 🛠 **Comparative Study of Mechanical and Thermal Performance of 3D Printed Materials Versus Conventional PVC and Cast-Iron Products: A Review of Additive Manufacturing Technologies and Material Properties**
 
-<img src="./img/am_1.jpeg" width=250 height=125>
-<img src="./img/am_2.jpeg" width=250 height=125>
+<img src="./img/am_1.jpeg" width=250 height=250>
+<img src="./img/am_2.jpeg" width=250 height=250>
 
 <img src="./img/am_3.jpeg" width=500 height=250>
 
