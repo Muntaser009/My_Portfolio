@@ -31,7 +31,7 @@
 
 ## Current Research Works
 
-- 🛠 **Mechanical and Thermal Performance Analysis of 3D Printed Materials compared to PVC and Cast-Iron Products: A Data Driven Simulation Study and Real-World Applications in Additive Manufacturing.**
+- 🛠 **Comparative Study of Mechanical and Thermal Performance of 3D Printed Materials Versus Conventional PVC and Cast-Iron Products: A Review of Additive Manufacturing Technologies and Material Properties**
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
